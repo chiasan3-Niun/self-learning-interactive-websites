@@ -1,4 +1,7 @@
----
+
+## 族語語音合成前置確認
+
+需要族語語音時，先進入[族語 AI 語音合成系統](https://ai-labs.i---
 name: self-learning-interactive-websites
 description: Use when a learner wants an agent to turn source text and supplied media into an independent interactive learning website, including flashcards, audio, image-based exercises, game levels, asset processing, testing, and deployment.
 ---
